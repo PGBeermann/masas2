@@ -1,0 +1,9 @@
+{
+  "name": "masas2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Distribución isotópica de fragmentos químicos",
+  "scripts": { "start": "node cli.js", "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
